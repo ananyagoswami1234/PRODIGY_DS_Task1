@@ -18,10 +18,11 @@ Word Cloud of Special Notes: A visual representation of the most common terms an
 Income Group vs. Special Notes Length: A scatter plot exploring the correlation between the length of special notes and income groups.
 Income Group vs. Age: A scatter plot visualizing the age distribution within different income groups using randomly generated age data.
 Gender Distribution: Bar charts showing gender distribution by region and income group, based on randomly generated gender data.
-📈 Data Sources:
 
+📈 Data Sources:
 Population Data: API_SP.POP.TOTL_DS2_en_csv_v2_433762.csv
 Metadata: Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_433762.csv
+
 📚 Conclusion:
 This comprehensive analysis sheds light on the world population trends, regional distributions, and economic group patterns over the years. 
 The insights derived can aid in informed decision-making and strategic planning.
